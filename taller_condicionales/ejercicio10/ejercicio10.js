@@ -1,4 +1,5 @@
-alert("hola compañeros")
+alert('hola compañeros')
+
 var cantidad
 var codigo
 var valor
@@ -20,5 +21,5 @@ function producto(valorcompra,cantidad){
     else {
         descuento=0
     }
-    return=descuento
+    return (descuento)
 }
